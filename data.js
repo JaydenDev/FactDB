@@ -6,3 +6,4 @@ let facts = [
   "There are around 700 separate programming languages",
   "The first computer virus was created in 1986",
 ]
+module.exports = facts;

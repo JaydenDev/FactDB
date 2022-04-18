@@ -1,4 +1,4 @@
-let databaseData = [
+let facts = [
   // add facts here, this is the data, this is the database. Remember, each fact is to be put in "" and have a , at the end
   "JavaScript took just 10 days to develop.",
   "JavaScript was probably named after Java.",
